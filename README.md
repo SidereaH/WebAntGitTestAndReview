@@ -37,3 +37,5 @@ MAX_FILE_SIZE
 MAX_FILES_TO_ANALYZE
 TEMP_DIR
 ```
+
+#### dockerhub: aliquamsiderea/git_review_webant:0.1.0
